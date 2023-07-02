@@ -13,3 +13,4 @@
 
 ## Miscellaneous
 - [React Darkreader](https://github.com/Turkyden/react-darkreader) - A React Hook for adding a dark / night mode to your site inspired by Darkreader.
+- [React to pdf](https://www.npmjs.com/package/react-to-pdf) - Create pdf documents from React components.
