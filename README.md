@@ -1,6 +1,9 @@
 ## Icons
 - [React icons](https://react-icons.github.io/react-icons/) - Svg react icons of popular icon packs using ES6 imports.
-- 
+
+## Scroll
+- [AOS - Animate on scroll library](https://www.npmjs.com/package/aos) - Animate elements on your page as you scroll.
+  
 ## Cursor
 - [React animated cursor](https://www.npmjs.com/package/react-animated-cursor) - Awesome animated cursor.
 
