@@ -7,6 +7,9 @@
 ## Cursor
 - [React animated cursor](https://www.npmjs.com/package/react-animated-cursor) - Awesome animated cursor.
 
+## Country, State, City
+- [library for Country, State, and City](https://www.npmjs.com/package/country-state-city) - Basic library for Country, State and City.
+- 
 ## Form
 ### Animation
 - [Power mode input](https://github.com/lindelof/power-mode-input) - Allow users to animate text while typing.
